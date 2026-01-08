@@ -1,0 +1,9 @@
+{
+    "data": "rxn_fit/data.csv",
+    "reactions": [
+        "A = B",
+        "B = C",
+        "C = D"
+    ],
+    "epoch": 100
+}
